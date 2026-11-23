@@ -29,11 +29,11 @@ function App() {
           property="og:description"
           content="composition musicale · production sonore · sound design"
         />
-        <meta property="og:url" content="https://quentin-abadia.netlify.app/" />
+        <meta property="og:url" content="https://quentinabadia.com/" />
         <meta property="og:type" content="website" />
         <meta
           property="og:image"
-          content="https://quentin-abadia.netlify.app/imgs/first-sight-site.png"
+          content="https://quentinabadia.com/imgs/partage.png"
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Quentin Abadia - Producteur son" />
@@ -43,7 +43,7 @@ function App() {
         />
         <meta
           name="twitter:image"
-          content="https://quentin-abadia.netlify.app/imgs/first-sight-site.png"
+          content="https://quentinabadia.com/imgs/partage.png"
         />
       </Helmet>
       <Router>
